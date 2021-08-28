@@ -154,11 +154,11 @@ section{
 width: 45%;
 }
 .about .about-content .column-left img{
-    height: 400px;
-    width: 400px;
-    margin-left: 50px;
+    height: 600px;
+    width: 500px;
+    margin-left: 60px;
     object-fit: cover;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 .about .title::before{
     content: "";
@@ -172,11 +172,13 @@ width: 45%;
 }
 .about .about-content .column-right{
     width: 55%;
+    
 }
 .about .about-content .column-right .text{
     font-size: 25px;
     font-weight: 600;
     margin-bottom: 10px;
+    
 }
 .about .about-content .column-right .text span{
     color: red;
@@ -200,3 +202,4 @@ width: 45%;
     color: red;
     background: none;
 }
+/* portfolio section styling*/
