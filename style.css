@@ -173,8 +173,8 @@ width: 45%;
 .about .about-content .column-right{
     width: 55%;
 }
-.about .about-content .column-left .text{
+.about .about-content .column-right .text{
     font-size: 25px;
     font-weight: 600;
-    margin-bottom: 10pxg;
+    margin-bottom: 10px;
 }
