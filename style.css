@@ -203,3 +203,22 @@ width: 45%;
     background: none;
 }
 /* portfolio section styling*/
+.portfolio .title{
+    font-family: 'Poppins' sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-bottom: 60px;
+    padding-bottom: 20px;
+    text-align: center;
+    position: relative;
+}
+.portfolio .title::before{
+    content: "";
+    position: absolute;
+    bottom: 0px;
+    left: 50%;
+    width: 180px;
+    height: 3px;
+    background: black;
+    transform: translateX(-50%);
+}
