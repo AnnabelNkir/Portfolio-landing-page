@@ -21,9 +21,9 @@ nav{
     text-decoration: none;
     color: #fff;
     font-size: 30px;
-    font-weight: bold;
+    font-weight: bolder;
     padding-top: 10px;
-    padding-left: 10%;
+    padding-left: 5%;
 }
 .nav-links{
     text-align: right;
@@ -64,10 +64,23 @@ nav{
     flex-basis: 55%;
 }
 .left-col img{
-    width: 300%;
-    margin-top: 150px;
-    margin-left: 80px;
-    border-radius: 10%;
+    width: 65%;
+    border-radius: 5%;
+    margin-top: 50px;
     cursor: pointer;
     filter: grayscale(0);
+    transition: filter 1s;
+}
+.left-col img:hover{
+filter: grayscale(1);
+}
+.right-col h1{
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px;
+}
+.right-col p{
+    color: #777;
+    margin: 20px 0 70px;
+    font-size: 20px;
 }
