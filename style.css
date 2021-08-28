@@ -15,6 +15,7 @@ nav{
     justify-content: space-between;
     align-items: center;
     position: relative;
+    z-index: 1;
 }
 .logo{
     text-decoration: none;
@@ -23,4 +24,28 @@ nav{
     font-weight: bold;
     padding-top: 10px;
     padding-left: 10%;
+}
+.nav-links{
+    text-align: right;
+    background: #ff1616;
+    padding: 10px 30px;
+    border-bottom-left-radius: 18px;
+}
+.nav-links ul li{
+   list-style: none;
+   display: inline-block;
+   padding: 10px 25px;
+}
+.nav-links ul li a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+.left-sidebar{
+    width: 20%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: #ff1616;
 }
