@@ -128,3 +128,23 @@ width: 28px;
 .icon:hover{
     transform: translateY(-5px);
 }
+/* about section styling*/
+section{
+    padding:100px 0;
+}
+.about{
+    font-family: 'Poppins',sans-serif;
+}
+.about .title{
+    font-family: 'Poppins' sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-bottom: 60px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.about .about-content .left img{
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
