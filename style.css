@@ -42,6 +42,9 @@ nav{
     font-size: 18px;
     font-weight: bolder;
 }
+.nav-links ul li a:hover{
+    color: blue;
+}
 .left-sidebar{
     width: 20%;
     height: 100%;
