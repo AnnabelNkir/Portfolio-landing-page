@@ -75,7 +75,7 @@ nav{
 filter: grayscale(1);
 }
 .right-col h1{
-    font-size: 20px;
+    font-size: 40px;
     font-weight: 600;
     padding: 10px;
 }
@@ -83,4 +83,5 @@ filter: grayscale(1);
     color: #777;
     margin: 20px 0 70px;
     font-size: 20px;
+    font-weight: bold;
 }
