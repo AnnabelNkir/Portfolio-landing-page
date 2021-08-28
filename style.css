@@ -178,3 +178,25 @@ width: 45%;
     font-weight: 600;
     margin-bottom: 10px;
 }
+.about .about-content .column-right .text span{
+    color: red;
+}
+.about .about-content .column-right p{
+    text-align: justify;
+}
+.about .about-content .column-right a{
+    display: inline-block;
+    background: red;
+    color: white;
+    font-size: 25px;
+    padding: 10px 30px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid red;
+    transition: all 0.3s ease;
+    text-decoration: none;
+}
+.about .about-content .column-right a:hover{
+    color: red;
+    background: none;
+}
