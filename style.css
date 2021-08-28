@@ -49,3 +49,17 @@ nav{
     top: 0;
     background: #ff1616;
 }
+.row{
+    padding: 0 10%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    position: relative;
+    margin-top: 5%;
+}
+.left-col{
+    flex-basis: 40%;
+}
+.right-col{
+    flex-basis: 55%;
+}
