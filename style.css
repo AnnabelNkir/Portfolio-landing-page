@@ -98,6 +98,10 @@ filter: grayscale(1);
     align-items: center;
     justify-content: center;
     position: relative;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    overflow: hidden;
 }
 .icon img{
 width: 28px;
