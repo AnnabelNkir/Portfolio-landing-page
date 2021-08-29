@@ -225,4 +225,15 @@ width: 45%;
 .column{
     width: 350px;
     float: left;
+    margin-left: 60px;
+    border: 2px solid black;
+    border-radius: 50px 50px;
+    align-items: center;
+    padding: 15px;
+    background:black ;
+    font-weight: bolder;
+    color: white; 
+}
+.portfolio{
+    background: red;
 }
