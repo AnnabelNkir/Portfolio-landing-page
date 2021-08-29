@@ -241,7 +241,9 @@ width: 45%;
 
 /* connect section styling*/
 section{
-    padding: 100px 0;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
 }
 .connect .title{
     font-family: 'Poppins' sans-serif;
@@ -263,35 +265,49 @@ section{
     transform: translateX(-50%);
 }
 .connect{
-  background: gray;
+  background-image: url(/Portfolio\ Images/connect1.jpeg)
+  no-repeat top / cover;
    color: black;
+   height: 700px;
+   font-family: sans-serif;
+   overflow-y: hidden;
 }
 .container{
-width: 80%;
-margin: 50px auto;
-}
-.contact-box{
-    background: white;
-    display: flex;
-}
-.contact-left{
-    flex-basis: 60%;
-    padding: 40px 60px;
-}
-.contact-right{
-    flex-basis: 40%;
-    padding: 40px;
-    background: red;
-    color: white;
-}
-h1{
-    margin-bottom: 10px;
-}
-.container p{
-margin-bottom: 40px;
-}
-.input-row{
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 20px;
-}
+    width: 80%;
+    margin: 50px auto;
+    }
+    .bg{
+        position: absolute;
+        top: 0;
+        left: 0;
+        background-color: black;
+        width: 100%;
+        height: 100%;
+        z-index: -1;
+    }
+    form{
+        width: 450px;
+        margin: 150px auto;
+    }
+    input, textarea{
+        color: black;
+        background-color: transparent;
+        border: 2px solid red;
+        box-shadow: inset 0 1px 5px red;
+        width: 100%;
+        padding: 15px;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 25px;
+        border-radius: 7px;
+        margin-bottom: 15px;
+        outline: none;
+        transition: all .3s ease;
+    }
+    form ::placeholder{
+        color: gray;
+    }
+    textarea{
+        height: 200px;
+        resize: vertical;
+    }
