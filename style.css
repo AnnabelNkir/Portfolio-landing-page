@@ -262,3 +262,36 @@ section{
     background: black;
     transform: translateX(-50%);
 }
+.connect{
+  background: gray;
+   color: black;
+}
+.container{
+width: 80%;
+margin: 50px auto;
+}
+.contact-box{
+    background: white;
+    display: flex;
+}
+.contact-left{
+    flex-basis: 60%;
+    padding: 40px 60px;
+}
+.contact-right{
+    flex-basis: 40%;
+    padding: 40px;
+    background: red;
+    color: white;
+}
+h1{
+    margin-bottom: 10px;
+}
+.container p{
+margin-bottom: 40px;
+}
+.input-row{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
