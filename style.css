@@ -206,6 +206,9 @@ width: 45%;
 /* portfolio section styling*/
 .portfolio{
     background: red;
+    margin: 0;
+    padding: 100px 10px;
+    
     
 }
 .portfolio .title{
@@ -252,6 +255,7 @@ section{
     font-weight: bolder;
     margin-bottom: 60px;
     padding-bottom: 20px;
+    margin-top: 40px;
     text-align: center;
     position: relative;
 }
@@ -288,7 +292,7 @@ section{
     }
     form{
         width: 450px;
-        margin: 150px auto;
+        margin: 20px auto;
     }
     input, textarea{
         color: black;
@@ -348,7 +352,8 @@ section{
         transition: transform 0.5s;
     }
     .icon img{
-    width: 28px;
+    width: 35px;
+    
     }
     .icon a{
         position: absolute;
