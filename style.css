@@ -232,11 +232,11 @@ width: 45%;
     transform: translateX(-50%);
 }
 .column{
-    width: 350px;
+    width: 450px;
     float: left;
     margin-left: 50px;
     border: 2px solid black;
-    border-radius: 60px 60px;
+    border-radius: 50px 50px;
     align-items: center;
     padding: 7px;
     background:black ;
@@ -275,7 +275,7 @@ section{
    background: url(./Portfolio\ Images/connect4.jpeg);
    color: white;
    height: 700px;
-   font-size: 20px;
+   font-size: 25px;
    font-weight: bolder;
    font-style: italic;
    font-family: sans-serif;
