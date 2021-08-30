@@ -270,7 +270,7 @@ section{
     transform: translateX(-50%);
 }
 .connect{
-   background: url(/Portfolio\ Images/connect4.jpeg);
+   background: url(./Portfolio\ Images/connect4.jpeg);
    color: white;
    height: 700px;
    font-size: 20px;
