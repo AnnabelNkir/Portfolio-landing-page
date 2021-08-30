@@ -238,7 +238,7 @@ width: 45%;
     border: 2px solid black;
     border-radius: 50px 50px;
     align-items: center;
-    padding: 15px;
+    padding: 10px;
     background:black ;
     font-weight: bolder;
     color: white; 
@@ -323,7 +323,7 @@ section{
     .submit{
         width: 100%;
         padding: 10px 0;
-        font-size: 22px;
+        font-size: 20px;
         border-radius: 5px;
         font-weight: 700;
         border: none;
