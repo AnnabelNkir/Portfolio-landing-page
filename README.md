@@ -2,7 +2,8 @@
 #### This is a portfolio landing page that profiles a brief background and experience of a full-stack developer and also captures some of the projects done and links to them
 
 ## Specifications
-For one to be able to access the portfolio, the user should install the latest version of browser of choice and load the live link provided and navigate through the portfolio.
+For one to be able to access the portfolio, the user should install the latest version of browser of choice and load the live link provided and navigate through the portfolio.<a href="https://annabelnkir.github.io/Portfolio-landing-page">Live link to the Portfolio landing page</a>
+
 ## Setup/Installation Requirements
 
 Developers who would want to view the work will clone this repository to get a copy of the project. In summary to achieve this you will have to;
