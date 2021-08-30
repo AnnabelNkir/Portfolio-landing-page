@@ -232,11 +232,11 @@ width: 45%;
     transform: translateX(-50%);
 }
 .column{
-    width: 350px;
+    width: 320px;
     float: left;
-    margin-left: 40px;
+    margin-left: 50px;
     border: 2px solid black;
-    border-radius: 50px 50px;
+    border-radius: 45px 45px;
     align-items: center;
     padding: 15px;
     background:black ;
@@ -296,7 +296,7 @@ section{
     }
     form{
         width: 350px;
-        margin: 20px auto;
+        margin: -45px auto;
        
     }
     input, textarea{
@@ -333,7 +333,7 @@ section{
         text-transform: uppercase;
         cursor: pointer;
         transition: all .3s ease;
-        margin-bottom: 100px;
+        margin-bottom: 20px;
        
     }
     .submit:hover{
