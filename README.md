@@ -16,6 +16,9 @@ There are no unresolved bugs in this code.
 I used HTML for structure and CSS for styling, worked on Linux Os and used VS-code as my text/code editor and Git applications.
 ## Support and contact details
 Incase of any query, need for collaboration or issues with this code, feel free to reach me at annabel.micheni@student.moringaschool.com
+
+### <a href="https://annabelnkir.github.io/Portfolio-landing-page">Live link to the Portfolio landing page</a>
+
 ### MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
