@@ -38,4 +38,4 @@ SOFTWARE.
 
 Copyright (c) [2021] [Annabel Nkirote Micheni]
 ## Acknowledgement
-I am grateful the amazing Moringa School fraternity, supportive TM's and classmates who have been making my learning experience better.
+I acknowledge the amazing Moringa School fraternity, supportive TM's and classmates who have been making my learning experience better for which i am grateful for.
