@@ -232,7 +232,7 @@ width: 45%;
     transform: translateX(-50%);
 }
 .column{
-    width: 335px;
+    width: 350px;
     float: left;
     margin-left: 50px;
     border: 2px solid black;
@@ -241,6 +241,7 @@ width: 45%;
     padding: 7px;
     background:black ;
     font-weight: bolder;
+    font-size: 15px;
     color: white; 
 }
 
